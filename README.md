@@ -48,9 +48,9 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
   * Area code: 973
 
 3.
-  * first_name: Abel
-  * county: Ada
-  * county total: 3  that question was so confusing, tutor didnt understand either.
+  * first_name: Alecia  Alaine  An    Andra
+  * county:     LA      Orange  Cook  NY
+  * county total: 18.     11.    13.    14
 
 
 ## Summary
